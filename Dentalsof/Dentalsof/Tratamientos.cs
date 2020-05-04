@@ -152,6 +152,7 @@ namespace Dentalsof
 
         private void dataGridView_Tratamientos_CellValueChanged(object sender, DataGridViewCellEventArgs e)
         {
+        
         }
 
         private void txtbuscar_TextChanged(object sender, EventArgs e)
